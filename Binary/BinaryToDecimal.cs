@@ -12,7 +12,7 @@ namespace BinaryConverter
         public static void Run()
         {
             Console.WriteLine("Binary to Decimal Converter");
-            Console.Write("Indtast et binært tal: ");
+            Console.Write("Indtast et binï¿½rt tal: ");
             string binaryInput = Console.ReadLine();
 
             if (!IsBinary(binaryInput))
@@ -66,3 +66,5 @@ namespace BinaryConverter
         }
     }
 }
+
+      
