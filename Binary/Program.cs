@@ -16,7 +16,6 @@
                         DecimalToBinary.Run();
                         break;
                     case "2":
-                        BinaryToDecimal.Run();
                         break;
                     case "3":
                         Subnet.Run();
