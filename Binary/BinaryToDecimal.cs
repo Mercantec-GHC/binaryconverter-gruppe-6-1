@@ -35,7 +35,7 @@ namespace BinaryConverter
                 powerOfTwos.Insert(0, value);
                 value *= 2;
             }
-
+            
             int sum = 0;
 
             for (int i = 0; i < binaryString.Length; i++)
